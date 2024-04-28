@@ -2,8 +2,6 @@
 
 Lang: 🇵🇹 / 🇬🇧 
 
-Learning how to program.
-
 I have no clue what I'm doing.
 
 <!---
