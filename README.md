@@ -1,7 +1,3 @@
-@JPMDS
-
-Lang: 🇵🇹 / 🇬🇧 
-
 I have no clue what I'm doing.
 
 <!---
